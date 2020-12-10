@@ -6,3 +6,5 @@ Node.js를 사용한 인증 API 서버입니다. (공개용)
 ----
 # 기술 스택
 MySQL, Node.js, Azure(MS)
+
+점진적으로 AWS에 옮길 
